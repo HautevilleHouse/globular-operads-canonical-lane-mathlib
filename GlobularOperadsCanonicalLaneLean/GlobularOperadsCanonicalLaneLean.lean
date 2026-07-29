@@ -1,0 +1,15 @@
+import HautevilleHouse.GlobularOperadsCanonicalLaneLean.GlobularOperadStructure
+import HautevilleHouse.GlobularOperadsCanonicalLaneLean.HomotopyCoherence
+import HautevilleHouse.GlobularOperadsCanonicalLaneLean.OperadicHomology
+import HautevilleHouse.GlobularOperadsCanonicalLaneLean.AdmissibleClass
+import HautevilleHouse.GlobularOperadsCanonicalLaneLean.BridgeLemmas
+import HautevilleHouse.GlobularOperadsCanonicalLaneLean.GateLemmas
+import HautevilleHouse.GlobularOperadsCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace GlobularOperadsCanonicalLaneLean
+
+-- Root module for the Globular Operads canonical lane package
+
+end GlobularOperadsCanonicalLaneLean
+end HautevilleHouse

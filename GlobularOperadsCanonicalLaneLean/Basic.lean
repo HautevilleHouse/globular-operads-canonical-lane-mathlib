@@ -1,0 +1,2 @@
+import GlobularOperadsCanonicalLaneLean.GateLemmas
+import GlobularOperadsCanonicalLaneLean.FinalTheorem
